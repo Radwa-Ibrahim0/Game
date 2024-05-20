@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\DELL\Desktop\ehna\.metadata\.plugins\org.eclipse.jdt.core
+4170042280.index
